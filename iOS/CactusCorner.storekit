@@ -1,0 +1,29 @@
+{
+  "identifier": "cactuscorner",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "cactuscorner_pro",
+      "localizations": [
+        {
+          "description": "Unlimited plants and propagation tracking",
+          "displayName": "Cactus Corner Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "cactuscorner_pro",
+      "referenceName": "Cactus Corner Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
